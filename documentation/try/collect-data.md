@@ -13,7 +13,7 @@ Click on **SURVEYORS** in the top bar, and then click the **NEW SURVEYOR** butto
 
 ## Creating a Survey
 Now we can create a survey. Click **SURVEYS** in the top bar, then hit the **NEW SURVEY** button. We’re going to use a simple micro-census style form for our example survey - you can find an XLS file on the filesystem at 
-`aether-bootstrap/assets/forms/aether-walkthrough-microcensus.xls`  or download it here: [example-microcensus.xls](https://github.com/eHealthAfrica/aether-bootstrap/raw/master/assets/forms/example-microcensus.xls)
+`aether-bootstrap/assets/forms/aether-walkthrough-microcensus.xls`  or download it here: [example-microcensus.xls](https://github.com/eHealthAfrica/aether-bootstrap/blob/1.4.0/assets/forms/example-microcensus.xls)
 
 Provide a name for the survey, select your surveyor from the list and click **ADD** to move it to the right hand box, then upload the aforementioned XLS file by clicking on **ADD XFORM / XLSFORM FILES**.
 
